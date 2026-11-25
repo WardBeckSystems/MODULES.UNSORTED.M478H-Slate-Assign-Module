@@ -1,0 +1,16 @@
+{
+ "code": "M478H",
+ "connector": "RTO-144",
+ "type": "M478H - Slate Assign Module",
+ "series": null,
+ "contacts": "",
+ "verified": null,
+ "derived": false,
+ "variant_of": null,
+ "pins": [],
+ "straps": [],
+ "power": [],
+ "sources": [
+  "Engineering/RTO-144/M478H/M478H.rto144.json"
+ ]
+}
