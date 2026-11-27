@@ -1,24 +1,24 @@
-# M478H · Unsorted
+# M478H Slate Assign Module · Unsorted
 
 Ward-Beck Systems M478H, 1984|17. Wiki page: [M478H on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M478H.html)
 
 | Folder | What is in it | Files |
 |---|---|---|
-| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 0 |
-| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 0 |
-| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 4 |
+| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 1 |
+| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 2 |
+| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 9 |
 | [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 10 |
-| [PHOTOS/](PHOTOS/) | photographs of the module | 0 |
-| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 0 |
-| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 1 |
-| [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 11 |
+| [PHOTOS/](PHOTOS/) | photographs of the module | 1 |
+| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 1 |
+| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 2 |
+| [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 10 |
 
 ## Pinouts
 
 _Pinouts: the RTO-144 edge connector (connection sheets, connector layouts and rear views, strapping), and the pinout / connections drawings made from them. The module root `RTO.json` lists every contact._
 
 <table>
-<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKeWhYWWMyQzVVdEU/view?resourcekey=0-rFC_8zBSOFgievgmyOYfQA" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKeWhYWWMyQzVVdEU&resourcekey=0-rFC_8zBSOFgievgmyOYfQA" width="240" alt="1984 - M478H - 008 - Pin Out.jpg"></a><br><sub>1984|17 · 008 - Pin Out</sub></td></tr>
+<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKeWhYWWMyQzVVdEU/view?resourcekey=0-rFC_8zBSOFgievgmyOYfQA" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKeWhYWWMyQzVVdEU&resourcekey=0-rFC_8zBSOFgievgmyOYfQA" width="240" alt="1984 - M478H - 008 - Pin Out.jpg"></a><br><sub>1984|17 · 008 - Pin Out · <a href="PINOUTS/1984%20-%20M478H%20-%20008%20-%20Pin%20Out%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
 
 Not on Google Drive yet: `M478H - RTO-144 Connections.pdf`
@@ -79,7 +79,7 @@ _Manuals and manual pages, price lists, RTO-144 connection sheets, brochures, ad
 <table>
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKOHo3T2xDWjZETms/view?resourcekey=0-8zODvyhq37T4SXTI0cfmPQ" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKOHo3T2xDWjZETms&resourcekey=0-8zODvyhq37T4SXTI0cfmPQ" width="240" alt="1984 - M478H - 001 - Cover.jpg"></a><br><sub>1984|17 · 001 - Cover</sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKOFRoVG5LVW1najg/view?resourcekey=0-Mf-qVbDWh2Q7qbUDLVppng" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKOFRoVG5LVW1najg&resourcekey=0-Mf-qVbDWh2Q7qbUDLVppng" width="240" alt="1984 - M478H - 002.jpg"></a><br><sub>1984|17 · 002</sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKVnI5eXF0MlU3LVE/view?resourcekey=0-GE7f-3x8WqUI-K1av4golg" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKVnI5eXF0MlU3LVE&resourcekey=0-GE7f-3x8WqUI-K1av4golg" width="240" alt="1984 - M478H - 003.jpg"></a><br><sub>1984|17 · 003</sub></td></tr>
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKbzc1OFpvMFpPc3M/view?resourcekey=0-HxAp15IhZrEfw6XnBTCoig" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKbzc1OFpvMFpPc3M&resourcekey=0-HxAp15IhZrEfw6XnBTCoig" width="240" alt="1984 - M478H - 004.jpg"></a><br><sub>1984|17 · 004</sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKWkpGTENEQks2d0E/view?resourcekey=0-TJBQUDPTrdSVxV5DLlJT0g" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKWkpGTENEQks2d0E&resourcekey=0-TJBQUDPTrdSVxV5DLlJT0g" width="240" alt="1984 - M478H - 005.jpg"></a><br><sub>1984|17 · 005</sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKcDhWTmw5MlduWFE/view?resourcekey=0-JXJhB8rSJW2qNZ2LrySRSQ" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKcDhWTmw5MlduWFE&resourcekey=0-JXJhB8rSJW2qNZ2LrySRSQ" width="240" alt="1984 - M478H - 006.jpg"></a><br><sub>1984|17 · 006</sub></td></tr>
-<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKUEJLUkJfQVRtQkE/view?resourcekey=0-lNHN9V214jloxO--vCGDkA" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKUEJLUkJfQVRtQkE&resourcekey=0-lNHN9V214jloxO--vCGDkA" width="240" alt="1984 - M478H - 007A.jpg"></a><br><sub>1984|17 · 007A</sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKVUJramdPNzdYaWs/view?resourcekey=0-1tPk4LoQOvsgkrtdof2OEw" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKVUJramdPNzdYaWs&resourcekey=0-1tPk4LoQOvsgkrtdof2OEw" width="240" alt="1984 - M478H - 007B.jpg"></a><br><sub>1984|17 · 007B</sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKQXJHUmp3WWFxV2c/view?resourcekey=0-ndPapa-SbKWBKJbFmhCU5Q" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKQXJHUmp3WWFxV2c&resourcekey=0-ndPapa-SbKWBKJbFmhCU5Q" width="240" alt="1984 - M478H - 007C.jpg"></a><br><sub>1984|17 · 007C</sub></td></tr>
+<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKVUJramdPNzdYaWs/view?resourcekey=0-1tPk4LoQOvsgkrtdof2OEw" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKVUJramdPNzdYaWs&resourcekey=0-1tPk4LoQOvsgkrtdof2OEw" width="240" alt="1984 - M478H - 007B.jpg"></a><br><sub>1984|17 · 007B</sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKQXJHUmp3WWFxV2c/view?resourcekey=0-ndPapa-SbKWBKJbFmhCU5Q" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKQXJHUmp3WWFxV2c&resourcekey=0-ndPapa-SbKWBKJbFmhCU5Q" width="240" alt="1984 - M478H - 007C.jpg"></a><br><sub>1984|17 · 007C</sub></td></tr>
 </table>
 
 Not on Google Drive yet: `M478H - 007A.jpg`
@@ -89,6 +89,11 @@ Not on Google Drive yet: `M478H - 007A.jpg`
 _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the module symbol (`.kicad_sym`) and its PCB projects. Traced schematics are the line work only: redraw with symbols over them._
 
 - [M478H.kicad_sym](KICAD/M478H.kicad_sym)
+- [index.html](KICAD/index.html)
+
+## Software
+
+- [index.html](SOFTWARE/index.html)
 
 ---
 Archive: Anthony Peter Kuzub · [WBSps.ca](https://WBSps.ca) · [WBSps.Kuzub.com](https://WBSps.Kuzub.com)
