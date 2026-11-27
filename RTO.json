@@ -3,14 +3,792 @@
  "connector": "RTO-144",
  "type": "M478H - Slate Assign Module",
  "series": null,
- "contacts": "",
+ "connectors": [
+  {
+   "name": "P1",
+   "kind": "edge",
+   "contacts": 44,
+   "rows": "A-Z (no G, I, O, Q) opposite 1-22",
+   "view": null,
+   "part": null
+  }
+ ],
  "verified": null,
- "derived": false,
- "variant_of": null,
- "pins": [],
+ "built_from": {
+  "pictures": [
+   "M478H/PINOUTS/1984 - M478H - 008 - Pin Out.pinout.json"
+  ],
+  "sheet": "Engineering/RTO-144/M478H/M478H.rto144.json",
+  "sheet_agrees": null
+ },
+ "pins": [
+  {
+   "connector": "P1",
+   "pin": "1",
+   "ref": "1",
+   "also": null,
+   "same_row": null,
+   "signal": "M2 OUT",
+   "kind": "out",
+   "port": "M2 OUT",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M478H/PINOUTS/1984 - M478H - 008 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "2",
+   "ref": "2",
+   "also": null,
+   "same_row": null,
+   "signal": "M1 OUT",
+   "kind": "out",
+   "port": "M1 OUT",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M478H/PINOUTS/1984 - M478H - 008 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "3",
+   "ref": "3",
+   "also": null,
+   "same_row": null,
+   "signal": "S6 OUT",
+   "kind": "out",
+   "port": "S6 OUT",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M478H/PINOUTS/1984 - M478H - 008 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "4",
+   "ref": "4",
+   "also": null,
+   "same_row": null,
+   "signal": "S5 OUT",
+   "kind": "out",
+   "port": "S5 OUT",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M478H/PINOUTS/1984 - M478H - 008 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "5",
+   "ref": "5",
+   "also": null,
+   "same_row": null,
+   "signal": "S4 OUT",
+   "kind": "out",
+   "port": "S4 OUT",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M478H/PINOUTS/1984 - M478H - 008 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "6",
+   "ref": "6",
+   "also": null,
+   "same_row": null,
+   "signal": "S3 OUT",
+   "kind": "out",
+   "port": "S3 OUT",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M478H/PINOUTS/1984 - M478H - 008 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "7",
+   "ref": "7",
+   "also": null,
+   "same_row": null,
+   "signal": "S2 OUT",
+   "kind": "out",
+   "port": "S2 OUT",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M478H/PINOUTS/1984 - M478H - 008 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "8",
+   "ref": "8",
+   "also": null,
+   "same_row": null,
+   "signal": "S1 OUT",
+   "kind": "out",
+   "port": "S1 OUT",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M478H/PINOUTS/1984 - M478H - 008 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "9",
+   "ref": "9",
+   "also": null,
+   "same_row": null,
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M478H/PINOUTS/1984 - M478H - 008 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "10",
+   "ref": "10",
+   "also": null,
+   "same_row": null,
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M478H/PINOUTS/1984 - M478H - 008 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "11",
+   "ref": "11",
+   "also": null,
+   "same_row": null,
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M478H/PINOUTS/1984 - M478H - 008 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "12",
+   "ref": "12",
+   "also": null,
+   "same_row": null,
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M478H/PINOUTS/1984 - M478H - 008 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "13",
+   "ref": "13",
+   "also": null,
+   "same_row": null,
+   "signal": "TONE INPUT",
+   "kind": "in",
+   "port": "TONE INPUT",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M478H/PINOUTS/1984 - M478H - 008 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "14",
+   "ref": "14",
+   "also": null,
+   "same_row": null,
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M478H/PINOUTS/1984 - M478H - 008 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "15",
+   "ref": "15",
+   "also": null,
+   "same_row": null,
+   "signal": "SLATE INPUT",
+   "kind": "in",
+   "port": "SLATE INPUT",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M478H/PINOUTS/1984 - M478H - 008 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "17",
+   "ref": "17",
+   "also": null,
+   "same_row": null,
+   "signal": "GROUND",
+   "kind": "ground",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M478H/PINOUTS/1984 - M478H - 008 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "18",
+   "ref": "18",
+   "also": null,
+   "same_row": null,
+   "signal": "CHASSIS",
+   "kind": "ground",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M478H/PINOUTS/1984 - M478H - 008 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "19",
+   "ref": "19",
+   "also": null,
+   "same_row": null,
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M478H/PINOUTS/1984 - M478H - 008 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "20",
+   "ref": "20",
+   "also": null,
+   "same_row": null,
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M478H/PINOUTS/1984 - M478H - 008 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "21",
+   "ref": "21",
+   "also": null,
+   "same_row": null,
+   "signal": "OUTPUT",
+   "kind": "out",
+   "port": "OUTPUT",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M478H/PINOUTS/1984 - M478H - 008 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "22",
+   "ref": "22",
+   "also": null,
+   "same_row": null,
+   "signal": "OUTPUT",
+   "kind": "out",
+   "port": "OUTPUT",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M478H/PINOUTS/1984 - M478H - 008 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "A",
+   "ref": "A",
+   "also": null,
+   "same_row": null,
+   "signal": "M2 OUT",
+   "kind": "out",
+   "port": "M2 OUT",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M478H/PINOUTS/1984 - M478H - 008 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "B",
+   "ref": "B",
+   "also": null,
+   "same_row": null,
+   "signal": "M1 OUT",
+   "kind": "out",
+   "port": "M1 OUT",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M478H/PINOUTS/1984 - M478H - 008 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "C",
+   "ref": "C",
+   "also": null,
+   "same_row": null,
+   "signal": "S6 OUT",
+   "kind": "out",
+   "port": "S6 OUT",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M478H/PINOUTS/1984 - M478H - 008 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "D",
+   "ref": "D",
+   "also": null,
+   "same_row": null,
+   "signal": "S5 OUT",
+   "kind": "out",
+   "port": "S5 OUT",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M478H/PINOUTS/1984 - M478H - 008 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "E",
+   "ref": "E",
+   "also": null,
+   "same_row": null,
+   "signal": "S4 OUT",
+   "kind": "out",
+   "port": "S4 OUT",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M478H/PINOUTS/1984 - M478H - 008 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "F",
+   "ref": "F",
+   "also": null,
+   "same_row": null,
+   "signal": "S3 OUT",
+   "kind": "out",
+   "port": "S3 OUT",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M478H/PINOUTS/1984 - M478H - 008 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "H",
+   "ref": "H",
+   "also": null,
+   "same_row": null,
+   "signal": "S2 OUT",
+   "kind": "out",
+   "port": "S2 OUT",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M478H/PINOUTS/1984 - M478H - 008 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "J",
+   "ref": "J",
+   "also": null,
+   "same_row": null,
+   "signal": "S1 OUT",
+   "kind": "out",
+   "port": "S1 OUT",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M478H/PINOUTS/1984 - M478H - 008 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "K",
+   "ref": "K",
+   "also": null,
+   "same_row": null,
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M478H/PINOUTS/1984 - M478H - 008 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "L",
+   "ref": "L",
+   "also": null,
+   "same_row": null,
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M478H/PINOUTS/1984 - M478H - 008 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "M",
+   "ref": "M",
+   "also": null,
+   "same_row": null,
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M478H/PINOUTS/1984 - M478H - 008 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "N",
+   "ref": "N",
+   "also": null,
+   "same_row": null,
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M478H/PINOUTS/1984 - M478H - 008 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "P",
+   "ref": "P",
+   "also": null,
+   "same_row": null,
+   "signal": "TONE INPUT",
+   "kind": "in",
+   "port": "TONE INPUT",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M478H/PINOUTS/1984 - M478H - 008 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "R",
+   "ref": "R",
+   "also": null,
+   "same_row": null,
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M478H/PINOUTS/1984 - M478H - 008 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "S",
+   "ref": "S",
+   "also": null,
+   "same_row": null,
+   "signal": "SLATE INPUT",
+   "kind": "in",
+   "port": "SLATE INPUT",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M478H/PINOUTS/1984 - M478H - 008 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "U",
+   "ref": "U",
+   "also": null,
+   "same_row": null,
+   "signal": "GROUND",
+   "kind": "ground",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M478H/PINOUTS/1984 - M478H - 008 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "V",
+   "ref": "V",
+   "also": null,
+   "same_row": null,
+   "signal": "CHASSIS",
+   "kind": "ground",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M478H/PINOUTS/1984 - M478H - 008 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "W",
+   "ref": "W",
+   "also": null,
+   "same_row": null,
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M478H/PINOUTS/1984 - M478H - 008 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "X",
+   "ref": "X",
+   "also": null,
+   "same_row": null,
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M478H/PINOUTS/1984 - M478H - 008 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "Y",
+   "ref": "Y",
+   "also": null,
+   "same_row": null,
+   "signal": "OUTPUT",
+   "kind": "out",
+   "port": "OUTPUT",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M478H/PINOUTS/1984 - M478H - 008 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "Z",
+   "ref": "Z",
+   "also": null,
+   "same_row": null,
+   "signal": "OUTPUT",
+   "kind": "out",
+   "port": "OUTPUT",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M478H/PINOUTS/1984 - M478H - 008 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  }
+ ],
+ "ports": [
+  {
+   "name": "M2 OUT",
+   "dir": "out",
+   "pins": {
+    "a": "P1-A",
+    "b": "P1-1"
+   }
+  },
+  {
+   "name": "M1 OUT",
+   "dir": "out",
+   "pins": {
+    "a": "P1-B",
+    "b": "P1-2"
+   }
+  },
+  {
+   "name": "S6 OUT",
+   "dir": "out",
+   "pins": {
+    "a": "P1-C",
+    "b": "P1-3"
+   }
+  },
+  {
+   "name": "S5 OUT",
+   "dir": "out",
+   "pins": {
+    "a": "P1-D",
+    "b": "P1-4"
+   }
+  },
+  {
+   "name": "S4 OUT",
+   "dir": "out",
+   "pins": {
+    "a": "P1-E",
+    "b": "P1-5"
+   }
+  },
+  {
+   "name": "S3 OUT",
+   "dir": "out",
+   "pins": {
+    "a": "P1-F",
+    "b": "P1-6"
+   }
+  },
+  {
+   "name": "S2 OUT",
+   "dir": "out",
+   "pins": {
+    "a": "P1-H",
+    "b": "P1-7"
+   }
+  },
+  {
+   "name": "S1 OUT",
+   "dir": "out",
+   "pins": {
+    "a": "P1-J",
+    "b": "P1-8"
+   }
+  },
+  {
+   "name": "TONE INPUT",
+   "dir": "in",
+   "pins": {
+    "a": "P1-P",
+    "b": "P1-13"
+   }
+  },
+  {
+   "name": "SLATE INPUT",
+   "dir": "in",
+   "pins": {
+    "a": "P1-S",
+    "b": "P1-15"
+   }
+  },
+  {
+   "name": "OUTPUT",
+   "dir": "out",
+   "pins": {
+    "a": "P1-Y",
+    "b": "P1-21",
+    "c": "P1-Z",
+    "d": "P1-22"
+   }
+  }
+ ],
+ "inserts": [],
  "straps": [],
- "power": [],
- "sources": [
-  "Engineering/RTO-144/M478H/M478H.rto144.json"
- ]
+ "conflicts": [],
+ "to_check": []
 }

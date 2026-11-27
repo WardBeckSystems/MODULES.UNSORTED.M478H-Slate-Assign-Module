@@ -1,0 +1,548 @@
+{
+ "schema": "wbs-pinout/1",
+ "picture": "1984 - M478H - 008 - Pin Out.jpg",
+ "module": "M478H",
+ "applies_to": [
+  "M478H"
+ ],
+ "pinout": true,
+ "drawing": {
+  "number": "478-04-002",
+  "title": "M478H SLATE ASSIGN MODULE CONNECTOR LAYOUT",
+  "date": "1984-05",
+  "issue": "1",
+  "drawn": "H.H."
+ },
+ "connectors": [
+  {
+   "name": "P1",
+   "kind": "edge",
+   "contacts": 44,
+   "rows": "A-Z (no G, I, O, Q) opposite 1-22",
+   "view": null,
+   "part": null
+  }
+ ],
+ "pins": [
+  {
+   "connector": "P1",
+   "pin": "A",
+   "also": null,
+   "as_drawn": "M2 OUT",
+   "signal": "M2 OUT",
+   "kind": "out",
+   "port": "M2 OUT",
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "1",
+   "also": null,
+   "as_drawn": "M2 OUT",
+   "signal": "M2 OUT",
+   "kind": "out",
+   "port": "M2 OUT",
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "B",
+   "also": null,
+   "as_drawn": "M1 OUT",
+   "signal": "M1 OUT",
+   "kind": "out",
+   "port": "M1 OUT",
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "2",
+   "also": null,
+   "as_drawn": "M1 OUT",
+   "signal": "M1 OUT",
+   "kind": "out",
+   "port": "M1 OUT",
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "C",
+   "also": null,
+   "as_drawn": "S6 OUT",
+   "signal": "S6 OUT",
+   "kind": "out",
+   "port": "S6 OUT",
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "3",
+   "also": null,
+   "as_drawn": "S6 OUT",
+   "signal": "S6 OUT",
+   "kind": "out",
+   "port": "S6 OUT",
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "D",
+   "also": null,
+   "as_drawn": "S5 OUT",
+   "signal": "S5 OUT",
+   "kind": "out",
+   "port": "S5 OUT",
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "4",
+   "also": null,
+   "as_drawn": "S5 OUT",
+   "signal": "S5 OUT",
+   "kind": "out",
+   "port": "S5 OUT",
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "E",
+   "also": null,
+   "as_drawn": "S4 OUT",
+   "signal": "S4 OUT",
+   "kind": "out",
+   "port": "S4 OUT",
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "5",
+   "also": null,
+   "as_drawn": "S4 OUT",
+   "signal": "S4 OUT",
+   "kind": "out",
+   "port": "S4 OUT",
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "F",
+   "also": null,
+   "as_drawn": "S3 OUT",
+   "signal": "S3 OUT",
+   "kind": "out",
+   "port": "S3 OUT",
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "6",
+   "also": null,
+   "as_drawn": "S3 OUT",
+   "signal": "S3 OUT",
+   "kind": "out",
+   "port": "S3 OUT",
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "H",
+   "also": null,
+   "as_drawn": "S2 OUT",
+   "signal": "S2 OUT",
+   "kind": "out",
+   "port": "S2 OUT",
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "7",
+   "also": null,
+   "as_drawn": "S2 OUT",
+   "signal": "S2 OUT",
+   "kind": "out",
+   "port": "S2 OUT",
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "J",
+   "also": null,
+   "as_drawn": "S1 OUT",
+   "signal": "S1 OUT",
+   "kind": "out",
+   "port": "S1 OUT",
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "8",
+   "also": null,
+   "as_drawn": "S1 OUT",
+   "signal": "S1 OUT",
+   "kind": "out",
+   "port": "S1 OUT",
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "K",
+   "also": null,
+   "as_drawn": "NC",
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "9",
+   "also": null,
+   "as_drawn": "NC",
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "L",
+   "also": null,
+   "as_drawn": "NC",
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "10",
+   "also": null,
+   "as_drawn": "NC",
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "M",
+   "also": null,
+   "as_drawn": "NC",
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "11",
+   "also": null,
+   "as_drawn": "NC",
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "N",
+   "also": null,
+   "as_drawn": "NC",
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "12",
+   "also": null,
+   "as_drawn": "NC",
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "P",
+   "also": null,
+   "as_drawn": "TONE INPUT",
+   "signal": "TONE INPUT",
+   "kind": "in",
+   "port": "TONE INPUT",
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "13",
+   "also": null,
+   "as_drawn": "TONE INPUT",
+   "signal": "TONE INPUT",
+   "kind": "in",
+   "port": "TONE INPUT",
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "R",
+   "also": null,
+   "as_drawn": "NC",
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "14",
+   "also": null,
+   "as_drawn": "NC",
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "S",
+   "also": null,
+   "as_drawn": "SLATE INPUT",
+   "signal": "SLATE INPUT",
+   "kind": "in",
+   "port": "SLATE INPUT",
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "15",
+   "also": null,
+   "as_drawn": "SLATE INPUT",
+   "signal": "SLATE INPUT",
+   "kind": "in",
+   "port": "SLATE INPUT",
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "U",
+   "also": null,
+   "as_drawn": "GROUND",
+   "signal": "GROUND",
+   "kind": "ground",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "17",
+   "also": null,
+   "as_drawn": "GROUND",
+   "signal": "GROUND",
+   "kind": "ground",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "V",
+   "also": null,
+   "as_drawn": "CHASSIS",
+   "signal": "CHASSIS",
+   "kind": "ground",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "18",
+   "also": null,
+   "as_drawn": "CHASSIS",
+   "signal": "CHASSIS",
+   "kind": "ground",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "W",
+   "also": null,
+   "as_drawn": "NC",
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "19",
+   "also": null,
+   "as_drawn": "NC",
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "X",
+   "also": null,
+   "as_drawn": "NC",
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "20",
+   "also": null,
+   "as_drawn": "NC",
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "Y",
+   "also": null,
+   "as_drawn": "OUTPUT",
+   "signal": "OUTPUT",
+   "kind": "out",
+   "port": "OUTPUT",
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "21",
+   "also": null,
+   "as_drawn": "OUTPUT",
+   "signal": "OUTPUT",
+   "kind": "out",
+   "port": "OUTPUT",
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "Z",
+   "also": null,
+   "as_drawn": "OUTPUT",
+   "signal": "OUTPUT",
+   "kind": "out",
+   "port": "OUTPUT",
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "22",
+   "also": null,
+   "as_drawn": "OUTPUT",
+   "signal": "OUTPUT",
+   "kind": "out",
+   "port": "OUTPUT",
+   "polarity": null
+  }
+ ],
+ "ports": [
+  {
+   "name": "M2 OUT",
+   "dir": "out",
+   "pins": {
+    "a": "P1-A",
+    "b": "P1-1"
+   }
+  },
+  {
+   "name": "M1 OUT",
+   "dir": "out",
+   "pins": {
+    "a": "P1-B",
+    "b": "P1-2"
+   }
+  },
+  {
+   "name": "S6 OUT",
+   "dir": "out",
+   "pins": {
+    "a": "P1-C",
+    "b": "P1-3"
+   }
+  },
+  {
+   "name": "S5 OUT",
+   "dir": "out",
+   "pins": {
+    "a": "P1-D",
+    "b": "P1-4"
+   }
+  },
+  {
+   "name": "S4 OUT",
+   "dir": "out",
+   "pins": {
+    "a": "P1-E",
+    "b": "P1-5"
+   }
+  },
+  {
+   "name": "S3 OUT",
+   "dir": "out",
+   "pins": {
+    "a": "P1-F",
+    "b": "P1-6"
+   }
+  },
+  {
+   "name": "S2 OUT",
+   "dir": "out",
+   "pins": {
+    "a": "P1-H",
+    "b": "P1-7"
+   }
+  },
+  {
+   "name": "S1 OUT",
+   "dir": "out",
+   "pins": {
+    "a": "P1-J",
+    "b": "P1-8"
+   }
+  },
+  {
+   "name": "TONE INPUT",
+   "dir": "in",
+   "pins": {
+    "a": "P1-P",
+    "b": "P1-13"
+   }
+  },
+  {
+   "name": "SLATE INPUT",
+   "dir": "in",
+   "pins": {
+    "a": "P1-S",
+    "b": "P1-15"
+   }
+  },
+  {
+   "name": "OUTPUT",
+   "dir": "out",
+   "pins": {
+    "a": "P1-Y",
+    "b": "P1-21",
+    "c": "P1-Z",
+    "d": "P1-22"
+   }
+  }
+ ],
+ "inserts": [],
+ "straps": [],
+ "unread": [
+  "Row T/16 has no label (a faint erased mark beside 16); skipped",
+  "View (rear/front) is not stated on the sheet"
+ ],
+ "confidence": "high",
+ "notes": "Single 22-way edge connector; the drawing names none, so it is called P1. Letters and numbers are opposite contacts, each labelled separately, with the same label on both sides of every row. Pairs read as balanced (no +/- drawn), ports use 'a' (letter) / 'b' (number). Outputs: M2, M1, S6 ... S1 OUT (A/1 - J/8) - presumably the slate assign outputs to mix (M) and sub (S) busses, but the drawing just says OUT. Inputs: TONE INPUT (P/13), SLATE INPUT (S/15). OUTPUT on both Y/21 and Z/22 with no distinction drawn, recorded as one OUTPUT port of four contacts. GROUND U/17, CHASSIS V/18. No power pins are drawn on this sheet. Title block: Ward-Beck Systems, size A, 478-04-002, ISSUE 1, DRN. H.H. MAY 84, ENG. PA. No insert."
+}

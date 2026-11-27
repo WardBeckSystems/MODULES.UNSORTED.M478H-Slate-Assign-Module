@@ -25,10 +25,52 @@ Not on Google Drive yet: `M478H - RTO-144 Connections.pdf`
 
 ## RTO-144 pinout
 
-RTO-144 edge connector. Every contact, with where it was read: [`RTO.json`](RTO.json).
+Read from 1 pinout picture (each its own `.pinout.json` beside it). Every contact, with where it was read: [`RTO.json`](RTO.json). How a picture becomes this table: [the pinout decision tree](https://github.com/WardBeckSystems/WBSps.ca/blob/main/2026/Engineering/PINOUTS.md).
 
-| Pin | Signal | Kind | Pair | Confidence |
+| Pin | Signal | Kind | Port | Confidence |
 |---|---|---|---|---|
+| 1 | M2 OUT | out | M2 OUT | high |
+| 2 | M1 OUT | out | M1 OUT | high |
+| 3 | S6 OUT | out | S6 OUT | high |
+| 4 | S5 OUT | out | S5 OUT | high |
+| 5 | S4 OUT | out | S4 OUT | high |
+| 6 | S3 OUT | out | S3 OUT | high |
+| 7 | S2 OUT | out | S2 OUT | high |
+| 8 | S1 OUT | out | S1 OUT | high |
+| 9 | N/C | nc |  | high |
+| 10 | N/C | nc |  | high |
+| 11 | N/C | nc |  | high |
+| 12 | N/C | nc |  | high |
+| 13 | TONE INPUT | in | TONE INPUT | high |
+| 14 | N/C | nc |  | high |
+| 15 | SLATE INPUT | in | SLATE INPUT | high |
+| 17 | GROUND | ground |  | high |
+| 18 | CHASSIS | ground |  | high |
+| 19 | N/C | nc |  | high |
+| 20 | N/C | nc |  | high |
+| 21 | OUTPUT | out | OUTPUT | high |
+| 22 | OUTPUT | out | OUTPUT | high |
+| A | M2 OUT | out | M2 OUT | high |
+| B | M1 OUT | out | M1 OUT | high |
+| C | S6 OUT | out | S6 OUT | high |
+| D | S5 OUT | out | S5 OUT | high |
+| E | S4 OUT | out | S4 OUT | high |
+| F | S3 OUT | out | S3 OUT | high |
+| H | S2 OUT | out | S2 OUT | high |
+| J | S1 OUT | out | S1 OUT | high |
+| K | N/C | nc |  | high |
+| L | N/C | nc |  | high |
+| M | N/C | nc |  | high |
+| N | N/C | nc |  | high |
+| P | TONE INPUT | in | TONE INPUT | high |
+| R | N/C | nc |  | high |
+| S | SLATE INPUT | in | SLATE INPUT | high |
+| U | GROUND | ground |  | high |
+| V | CHASSIS | ground |  | high |
+| W | N/C | nc |  | high |
+| X | N/C | nc |  | high |
+| Y | OUTPUT | out | OUTPUT | high |
+| Z | OUTPUT | out | OUTPUT | high |
 
 ## Manuals and documents
 
