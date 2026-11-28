@@ -1,6 +1,6 @@
 # M478H Slate Assign Module · Routing
 
-Ward-Beck Systems M478H, 1984|17. Wiki page: [M478H on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M478H.html)
+Ward-Beck Systems M478H, 1984|17. Wiki page: [M478H on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.ROUTING.M478H-Slate-Assign-Module/)
 
 | Folder | What is in it | Files |
 |---|---|---|
