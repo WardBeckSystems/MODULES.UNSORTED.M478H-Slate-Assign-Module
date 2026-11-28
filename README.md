@@ -1,16 +1,13 @@
-# M478H Slate Assign Module · Unsorted
+# M478H Slate Assign Module · Routing
 
 Ward-Beck Systems M478H, 1984|17. Wiki page: [M478H on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M478H.html)
 
 | Folder | What is in it | Files |
 |---|---|---|
-| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 1 |
-| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 2 |
-| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 9 |
-| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 10 |
-| [PHOTOS/](PHOTOS/) | photographs of the module | 1 |
-| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 1 |
-| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 2 |
+| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 1 |
+| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 8 |
+| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 9 |
+| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 1 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 10 |
 
 ## Pinouts
@@ -20,8 +17,6 @@ _Pinouts: the RTO-144 edge connector (connection sheets, connector layouts and r
 <table>
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKeWhYWWMyQzVVdEU/view?resourcekey=0-rFC_8zBSOFgievgmyOYfQA" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKeWhYWWMyQzVVdEU&resourcekey=0-rFC_8zBSOFgievgmyOYfQA" width="240" alt="1984 - M478H - 008 - Pin Out.jpg"></a><br><sub>1984|17 · 008 - Pin Out · <a href="PINOUTS/1984%20-%20M478H%20-%20008%20-%20Pin%20Out%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
-
-Not on Google Drive yet: `M478H - RTO-144 Connections.pdf`
 
 ## RTO-144 pinout
 
@@ -82,14 +77,11 @@ _Manuals and manual pages, price lists, RTO-144 connection sheets, brochures, ad
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKVUJramdPNzdYaWs/view?resourcekey=0-1tPk4LoQOvsgkrtdof2OEw" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKVUJramdPNzdYaWs&resourcekey=0-1tPk4LoQOvsgkrtdof2OEw" width="240" alt="1984 - M478H - 007B.jpg"></a><br><sub>1984|17 · 007B</sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKQXJHUmp3WWFxV2c/view?resourcekey=0-ndPapa-SbKWBKJbFmhCU5Q" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKQXJHUmp3WWFxV2c&resourcekey=0-ndPapa-SbKWBKJbFmhCU5Q" width="240" alt="1984 - M478H - 007C.jpg"></a><br><sub>1984|17 · 007C</sub></td></tr>
 </table>
 
-Not on Google Drive yet: `M478H - 007A.jpg`
-
 ## KiCad
 
 _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the module symbol (`.kicad_sym`) and its PCB projects. Traced schematics are the line work only: redraw with symbols over them._
 
 - [M478H.kicad_sym](KICAD/M478H.kicad_sym)
-- [index.html](KICAD/index.html)
 
 ---
 Archive: Anthony Peter Kuzub · [WBSps.ca](https://WBSps.ca) · [WBSps.Kuzub.com](https://WBSps.Kuzub.com)
